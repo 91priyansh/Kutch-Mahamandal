@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "570148712063",
+    "firebase_url": "https://kutch-gold-silver.firebaseio.com",
+    "project_id": "kutch-gold-silver",
+    "storage_bucket": "kutch-gold-silver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570148712063:android:10143347883216cf2b594a",
+        "android_client_info": {
+          "package_name": "com.kutchmahamandal.kutchmahamandalbhav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570148712063-i7v9cjmoha44hdfd8b2umh6lq9dijc75.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kutchmahamandal.kutchmahamandalbhav",
+            "certificate_hash": "d285800e047cd1f929ba7f22f7a4e54475f11ec6"
+          }
+        },
+        {
+          "client_id": "570148712063-iobc1rtkctjn3fq81a7pio7tm5hvui0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy10S_1wMh4E7_kGpuKya514Q7puhmiPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570148712063-iobc1rtkctjn3fq81a7pio7tm5hvui0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
